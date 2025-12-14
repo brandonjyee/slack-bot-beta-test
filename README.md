@@ -23,3 +23,9 @@ The Slack Bot Beta Test is an experimental project designed to integrate with Sl
 ### Installation
 
 1. **Clone the repository**:
+
+## A Little Rhyme
+
+Slack bots in the cloud so high,  
+Sending messages, oh so spry.  
+Helping teams to fly, oh my!
